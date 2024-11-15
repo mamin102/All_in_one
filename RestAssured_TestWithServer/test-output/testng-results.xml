@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2275" started-at="2022-08-10T02:25:37 EDT" finished-at="2022-08-10T02:25:39 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2275" started-at="2022-08-10T02:25:37 EDT" finished-at="2022-08-10T02:25:39 EDT">
+      <class name="Test01_JasonServer_RestAPI.Test01_JasonServer_RestAPI">
+        <test-method status="PASS" signature="test_Put_Own_Server()[pri:0, instance:Test01_JasonServer_RestAPI.Test01_JasonServer_RestAPI@369f73a2]" name="test_Put_Own_Server" duration-ms="2222" started-at="2022-08-10T02:25:37 EDT" finished-at="2022-08-10T02:25:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Put_Own_Server -->
+      </class> <!-- Test01_JasonServer_RestAPI.Test01_JasonServer_RestAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
